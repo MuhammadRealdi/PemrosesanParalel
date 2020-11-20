@@ -3,8 +3,8 @@ Mata kuliah Pemrosesan Paralel<br/>
 SISTEM KOMPUTER<br/>
 FAKULTAS ILMU KOMPUTER<br/>
 UNIVERSITAS SRIWIJAYA<br/>
-KELOMPOK 5 <br/>
 
+KELOMPOK 5 <br/>
 Anggota Kelompok: <br/>
 MUHAMMAD REALDI           (09011281823070)<br/>
 RIZKI VALEN MAFAZA          (09011281823134)<br/>
