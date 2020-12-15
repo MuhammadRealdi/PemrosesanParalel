@@ -20,3 +20,4 @@ elif (menu=="3"):
 else:
 	print("selesai")
 pilihan=input()
+# File yang berada di node
